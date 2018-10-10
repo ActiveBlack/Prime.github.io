@@ -1,0 +1,2316 @@
+.version.index /* version checker */
+{
+	color: #0000FA;
+	background-color: #A5A4B2;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/galaxy-wallpapers-6.jpg") repeat center top scroll;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 2075.8px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #000000;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -21px;
+	padding-bottom: 5px;
+}
+
+#pu393
+{
+	width: 0.01px;
+	padding-bottom: 43px;
+	margin-left: -68px;
+}
+
+#u393
+{
+	z-index: 162;
+	width: 42px;
+	background-color: transparent;
+	position: fixed;
+	top: -21px;
+	left: -68px;
+}
+
+#u399
+{
+	z-index: 164;
+	width: 42px;
+	background-color: transparent;
+	position: fixed;
+	top: -21px;
+	left: 986px;
+}
+
+#pu72-4
+{
+	width: 0.01px;
+	margin-left: 20px;
+	margin-top: -8px;
+}
+
+#u72-4
+{
+	z-index: 123;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u275
+{
+	z-index: 127;
+	width: 265px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 54px;
+	left: 655px;
+}
+
+#tab-panelu163
+{
+	z-index: 2;
+	width: 960px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u164
+{
+	z-index: 3;
+	width: 960px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u173
+{
+	z-index: 4;
+	width: 239px;
+	min-height: 20px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 1px 0px 1px 1px;
+	background: #DEDEDE url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u173:hover
+{
+	border-style: solid;
+	width: 239px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 1px 1px;
+	background: #FFFFFF url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u173:active
+{
+	border-style: solid;
+	width: 239px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 1px 1px;
+	background: #FFFFFF url("../images/galaxy-wallpapers-6.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u173.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	width: 239px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 0px 1px;
+	background: #FFFFFF url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u174
+{
+	z-index: 6;
+	height: 20px;
+	width: 239px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 1px;
+	background: url("../images/u174.png") no-repeat 0px 0px;
+}
+
+#u173.TabbedPanelsTabSelected #u174
+{
+	background: url("../images/u174-a.png") no-repeat 0px 0px;
+}
+
+#u169
+{
+	z-index: 8;
+	width: 240px;
+	min-height: 20px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	left: 239px;
+	border-width: 1px 0px 1px 1px;
+	background: #DEDEDE url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u169:hover
+{
+	border-style: solid;
+	width: 240px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 1px 1px;
+	background: #FFFFFF url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u169:active
+{
+	border-style: solid;
+	width: 240px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 1px 1px;
+	background: #FFFFFF url("../images/galaxy-wallpapers-6.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u169.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	width: 240px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 0px 1px;
+	background: #FFFFFF url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u170
+{
+	z-index: 10;
+	height: 20px;
+	width: 240px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 1px;
+	background: url("../images/u170.png") no-repeat 0px 0px;
+}
+
+#u169.TabbedPanelsTabSelected #u170
+{
+	background: url("../images/u170-a.png") no-repeat 0px 0px;
+}
+
+#u165
+{
+	z-index: 12;
+	width: 239px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	left: 479px;
+	background: #DEDEDE url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u165:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	width: 239px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u165:active
+{
+	border-width: 1px;
+	border-style: solid;
+	width: 239px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/galaxy-wallpapers-6.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u167
+{
+	z-index: 14;
+	height: 20px;
+	width: 239px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 1px;
+	background: url("../images/u167.png") no-repeat 0px 0px;
+}
+
+#u165.TabbedPanelsTabSelected #u167
+{
+	background: url("../images/u167-a.png") no-repeat 0px 0px;
+}
+
+#u345
+{
+	z-index: 16;
+	width: 239px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	left: 719px;
+	background: #DEDEDE url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u345:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	width: 239px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u345:active
+{
+	border-width: 1px;
+	border-style: solid;
+	width: 239px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/galaxy-wallpapers-6.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u165.TabbedPanelsTabSelected,#u345.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	width: 239px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 1px 0px;
+	background: #FFFFFF url("../images/6998738-fantasy-grass-field.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u348
+{
+	z-index: 18;
+	height: 20px;
+	width: 239px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 2px;
+	background: url("../images/u348.png") no-repeat 0px 0px;
+}
+
+#u345.TabbedPanelsTabSelected #u348
+{
+	background: url("../images/u348-a.png") no-repeat 0px 0px;
+}
+
+#u177
+{
+	z-index: 20;
+	width: 960px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u182
+{
+	z-index: 21;
+	width: 958px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 50px;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/random_map_3_by_xcandycane5654-d67mfwr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u242-12
+{
+	z-index: 22;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 196px;
+}
+
+#u186
+{
+	z-index: 34;
+	width: 958px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 33px;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/random_map_3_by_xcandycane5654-d67mfwr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u244
+{
+	z-index: 35;
+	width: 860px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #00FFFF;
+	background-color: #FFFFFF;
+	padding-bottom: 39px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 38px;
+}
+
+#pu410
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	margin-left: 164px;
+}
+
+#u410
+{
+	z-index: 56;
+	width: 120px;
+	background-color: transparent;
+	margin-left: 22px;
+	position: relative;
+}
+
+#u417-4
+{
+	z-index: 62;
+	display: block;
+	vertical-align: top;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u243-4
+{
+	z-index: 36;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 387px;
+}
+
+#u402
+{
+	z-index: 46;
+	width: 96px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 564px;
+}
+
+#u245
+{
+	z-index: 40;
+	width: 96px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 41px;
+	left: 414px;
+}
+
+#u250-4
+{
+	z-index: 42;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 137px;
+	left: 400px;
+}
+
+#u407-4
+{
+	z-index: 48;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 603px;
+}
+
+#u409-4
+{
+	z-index: 52;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 137px;
+	left: 571px;
+}
+
+#u416-4
+{
+	z-index: 58;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 236px;
+}
+
+#u178
+{
+	z-index: 66;
+	width: 958px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 17px;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/random_map_3_by_xcandycane5654-d67mfwr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u257
+{
+	z-index: 67;
+	width: 265px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 12px;
+}
+
+#u257_img
+{
+	padding-bottom: 1px;
+}
+
+#u263
+{
+	z-index: 69;
+	width: 134px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 277px;
+}
+
+#u269
+{
+	z-index: 71;
+	width: 139px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 21px;
+	left: 445px;
+}
+
+#u284
+{
+	z-index: 73;
+	width: 89px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 125px;
+	left: 619px;
+}
+
+#u290
+{
+	z-index: 75;
+	width: 227px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 712px;
+}
+
+#u296-4
+{
+	z-index: 77;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 23px;
+}
+
+#u349
+{
+	z-index: 81;
+	width: 388px;
+	border-style: solid;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	padding: 5px 286px 55px 284px;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/random_map_3_by_xcandycane5654-d67mfwr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u372-6
+{
+	z-index: 82;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u373
+{
+	z-index: 88;
+	width: 72px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 28px;
+	left: 5px;
+}
+
+#u379-4
+{
+	z-index: 90;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 55px;
+	left: 73px;
+}
+
+#pu380
+{
+	width: 0.01px;
+	margin-left: 5px;
+	margin-top: -4px;
+}
+
+#u380
+{
+	z-index: 94;
+	width: 72px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u383-4
+{
+	z-index: 96;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 23px;
+	left: 72px;
+}
+
+#pu321-4
+{
+	width: 0.01px;
+	margin-top: 7px;
+}
+
+#u321-4
+{
+	z-index: 129;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+}
+
+#u322-4
+{
+	z-index: 133;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 180px;
+}
+
+#u338-4
+{
+	z-index: 140;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 506px;
+}
+
+#u339-4
+{
+	z-index: 144;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 740px;
+}
+
+#paccordionu300
+{
+	width: 0.01px;
+	margin-top: 6px;
+}
+
+#accordionu300
+{
+	z-index: 100;
+	width: 450px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #7F7F7F;
+	background-color: transparent;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u305
+{
+	z-index: 101;
+	width: 450px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u308
+{
+	z-index: 103;
+	height: 36px;
+	width: 450px;
+	vertical-align: top;
+	position: relative;
+	background: url("../images/6-u308.png") no-repeat 0px 0px;
+}
+
+#u308:hover
+{
+	background: url("../images/6-u308-r.png") no-repeat 0px 0px;
+}
+
+#u308:active
+{
+	background: url("../images/6-u308-m.png") no-repeat 0px 0px;
+}
+
+#u308.AccordionPanelTabOpen
+{
+	background: url("../images/6-u308-a.png") no-repeat 0px 0px;
+}
+
+#u306
+{
+	z-index: 107;
+	width: 448px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u319
+{
+	z-index: 108;
+	width: 449px;
+	min-height: 244px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+}
+
+#u309
+{
+	z-index: 109;
+	width: 450px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u312
+{
+	z-index: 111;
+	height: 36px;
+	width: 450px;
+	vertical-align: top;
+	position: relative;
+	background: url("../images/6-u312.png") no-repeat 0px 0px;
+}
+
+#u312:hover
+{
+	background: url("../images/6-u312-r.png") no-repeat 0px 0px;
+}
+
+#u312:active
+{
+	background: url("../images/6-u312-m.png") no-repeat 0px 0px;
+}
+
+#u312.AccordionPanelTabOpen
+{
+	background: url("../images/6-u312-a.png") no-repeat 0px 0px;
+}
+
+#u310
+{
+	z-index: 115;
+	width: 448px;
+	height: 119px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u301
+{
+	z-index: 116;
+	width: 450px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u304
+{
+	z-index: 118;
+	height: 36px;
+	width: 450px;
+	vertical-align: top;
+	position: relative;
+	background: url("../images/6-u304.png") no-repeat 0px 0px;
+}
+
+#u304:hover
+{
+	background: url("../images/6-u304-r.png") no-repeat 0px 0px;
+}
+
+#u304:active
+{
+	background: url("../images/6-u304-m.png") no-repeat 0px 0px;
+}
+
+#u304.AccordionPanelTabOpen
+{
+	background: url("../images/6-u304-a.png") no-repeat 0px 0px;
+}
+
+#u302
+{
+	z-index: 122;
+	width: 448px;
+	height: 119px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+.TabbedPanelsTab,.AccordionPanelTab /* tabset */
+{
+	cursor: pointer;
+}
+
+#u323
+{
+	z-index: 137;
+	width: 459px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	left: 500px;
+	background: #FFFFFF url("../images/free_space_galaxy_texture_by_lyshastra-d77gh2y.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u331
+{
+	z-index: 138;
+	width: 462px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -4px;
+}
+
+#u341
+{
+	z-index: 152;
+	width: 86px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 208px;
+	left: 675px;
+}
+
+#u344-4
+{
+	z-index: 154;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 199px;
+	left: 678px;
+}
+
+#u421
+{
+	z-index: 166;
+	width: 83px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 208px;
+	left: 761px;
+}
+
+#u426-4
+{
+	z-index: 168;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 199px;
+	left: 766px;
+}
+
+#u466
+{
+	z-index: 306;
+	width: 959px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	padding-bottom: 33px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../images/custom_background_drop_by_mikamori-d59vb3x.jpg") no-repeat center bottom;
+	background-size: cover;
+}
+
+#u497
+{
+	z-index: 313;
+	width: 83px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 43px;
+	left: 159px;
+}
+
+#u473-4
+{
+	z-index: 307;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 260px;
+}
+
+#u486
+{
+	z-index: 311;
+	width: 83px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 49px;
+	left: 694px;
+}
+
+#u500
+{
+	z-index: 315;
+	width: 83px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 44px;
+	left: 86px;
+}
+
+#u503
+{
+	z-index: 317;
+	width: 83px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 128px;
+}
+
+#u506
+{
+	z-index: 319;
+	width: 139px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 705px;
+}
+
+#u494
+{
+	z-index: 321;
+	width: 83px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 49px;
+	left: 777px;
+}
+
+#u509
+{
+	z-index: 323;
+	width: 58px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 49px;
+	left: 735px;
+}
+
+#u509_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u515
+{
+	z-index: 325;
+	width: 30px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 76px;
+	left: 766px;
+}
+
+#u263_img,#u515_img
+{
+	padding-right: 1px;
+}
+
+#tab-panelu427
+{
+	z-index: 172;
+	width: 960px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u428
+{
+	z-index: 173;
+	width: 960px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u437
+{
+	z-index: 174;
+	width: 319px;
+	min-height: 20px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 1px 0px 1px 1px;
+	background: #DEDEDE url("../images/custom_background_drop_by_mikamori-d59vb3x.jpg") no-repeat center bottom;
+}
+
+#u437:hover
+{
+	border-style: solid;
+	width: 319px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 1px 1px;
+	background: #FFFFFF url("../images/custom_background_drop_by_mikamori-d59vb3x.jpg") no-repeat center bottom;
+	background-size: auto;
+}
+
+#u437.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	width: 319px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 0px 1px;
+	background: #000000 url("../images/bag_meso.gif") repeat-x center bottom;
+	background-size: auto;
+}
+
+#u438
+{
+	z-index: 176;
+	height: 20px;
+	width: 319px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 1px;
+	background: url("../images/u438.png") no-repeat 0px 0px;
+}
+
+#u437.TabbedPanelsTabSelected #u438
+{
+	background: url("../images/u438-a.png") no-repeat 0px 0px;
+}
+
+#u433
+{
+	z-index: 178;
+	width: 320px;
+	min-height: 20px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	left: 319px;
+	border-width: 1px 0px 1px 1px;
+	background: #DEDEDE url("../images/custom_background_drop_by_mikamori-d59vb3x.jpg") no-repeat center bottom;
+}
+
+#u433:hover
+{
+	border-style: solid;
+	width: 320px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 1px 1px;
+	background: #FFFFFF url("../images/custom_background_drop_by_mikamori-d59vb3x.jpg") no-repeat center bottom;
+	background-size: auto;
+}
+
+#u433.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	width: 320px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 0px 1px;
+	background: #000000 url("../images/bag_meso.gif") repeat-x center bottom;
+	background-size: auto;
+}
+
+#u434
+{
+	z-index: 180;
+	height: 20px;
+	width: 320px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 1px;
+	background: url("../images/u434.png") no-repeat 0px 0px;
+}
+
+#u433.TabbedPanelsTabSelected #u434
+{
+	background: url("../images/u434-a.png") no-repeat 0px 0px;
+}
+
+#u429
+{
+	z-index: 182;
+	width: 319px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	left: 639px;
+	background: #DEDEDE url("../images/custom_background_drop_by_mikamori-d59vb3x.jpg") no-repeat center bottom;
+}
+
+#u429:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	width: 319px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/custom_background_drop_by_mikamori-d59vb3x.jpg") no-repeat center bottom;
+	background-size: auto;
+}
+
+#u429.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	width: 319px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 1px 0px;
+	background: #000000 url("../images/bag_meso.gif") repeat-x center bottom;
+	background-size: auto;
+}
+
+#u431
+{
+	z-index: 184;
+	height: 20px;
+	width: 319px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 2px;
+	background: url("../images/u431.png") no-repeat 0px 0px;
+}
+
+#u429.TabbedPanelsTabSelected #u431
+{
+	background: url("../images/u431-a.png") no-repeat 0px 0px;
+}
+
+#u441
+{
+	z-index: 186;
+	width: 960px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u446
+{
+	z-index: 187;
+	width: 828px;
+	border-style: solid;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	padding: 23px 104px 10px 26px;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/maplestory_background___the_forrest_that_glows_by_soardesigns-d7afenm%20(1).jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u572-23
+{
+	z-index: 188;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u573-4
+{
+	z-index: 211;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 170px;
+	left: 584px;
+}
+
+#u594
+{
+	z-index: 215;
+	width: 291px;
+	min-height: 190px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 301px;
+	top: -7px;
+	margin-bottom: -7px;
+	position: relative;
+}
+
+#u450
+{
+	z-index: 216;
+	width: 895px;
+	border-style: solid;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	padding: 27px 44px 104px 19px;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/maplestory_background___the_forrest_that_glows_by_soardesigns-d7afenm%20(1).jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#pu372-6,#pu466,#pu572-23,#pu574-13
+{
+	width: 0.01px;
+}
+
+#u574-13
+{
+	z-index: 217;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+#u575-6
+{
+	z-index: 230;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 500px;
+}
+
+#pu576
+{
+	width: 0.01px;
+	margin-left: 124px;
+	margin-top: 36px;
+}
+
+#u576
+{
+	z-index: 236;
+	width: 72px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 86px;
+}
+
+#u592
+{
+	z-index: 240;
+	width: 368px;
+	min-height: 221px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 130px;
+}
+
+#u582
+{
+	z-index: 238;
+	width: 53px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 78px;
+	left: 574px;
+}
+
+#u442
+{
+	z-index: 241;
+	width: 958px;
+	border-style: solid;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/maplestory_background___the_forrest_that_glows_by_soardesigns-d7afenm%20(1).jpg") no-repeat center top;
+	background-size: cover;
+}
+
+#u588-63
+{
+	z-index: 242;
+	width: 915px;
+	min-height: 292px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 24px;
+}
+
+#u588-2,#u588-4,#u588-6,#u588-8,#u588-10,#u588-12,#u588-14,#u588-16,#u588-18,#u588-20,#u588-22,#u588-24,#u588-26,#u588-28,#u588-30,#u588-32,#u588-34,#u588-36,#u588-38,#u588-40,#u588-42,#u588-44,#u588-46,#u588-48,#u588-50,#u588-52,#u588-54,#u588-56,#u588-58,#u588-60
+{
+	font-size: 9px;
+	line-height: 11px;
+	color: #FFFFFF;
+}
+
+#u598
+{
+	z-index: 305;
+	width: 132px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 73px;
+	left: 795px;
+}
+
+#u600
+{
+	z-index: 327;
+	width: 959px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	background: #FFFFFF url("../images/maplestory_custom_background___traditional_home_by_superjumpinj-d6xex1m.jpg") no-repeat center center;
+}
+
+#u600_position_content
+{
+	margin-bottom: -2px;
+	padding-top: 56px;
+}
+
+#u620
+{
+	z-index: 328;
+	width: 749px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: 96px;
+	position: relative;
+}
+
+#u613-4
+{
+	z-index: 329;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 10px;
+}
+
+#u622
+{
+	z-index: 333;
+	width: 172px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: 385px;
+	margin-top: 14px;
+	position: relative;
+}
+
+#u621-4
+{
+	z-index: 334;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 7px;
+}
+
+#tab-panelu623
+{
+	z-index: 338;
+	width: 960px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u624
+{
+	z-index: 339;
+	width: 960px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u633
+{
+	z-index: 340;
+	width: 159px;
+	min-height: 20px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u633:hover
+{
+	border-style: solid;
+	background-color: #FFFFFF;
+	width: 159px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u633.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	background-color: #FFFFFF;
+	width: 159px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 0px 1px;
+}
+
+#u634
+{
+	z-index: 342;
+	height: 20px;
+	width: 159px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 2px;
+	background: url("../images/u634.png") no-repeat 0px 0px;
+}
+
+#u633.TabbedPanelsTabSelected #u634
+{
+	background: url("../images/u634-a.png") no-repeat 0px 0px;
+}
+
+#u629
+{
+	z-index: 344;
+	width: 160px;
+	min-height: 20px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	left: 159px;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u629:hover
+{
+	border-style: solid;
+	background-color: #FFFFFF;
+	width: 160px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 1px 1px;
+}
+
+#u629.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	background-color: #FFFFFF;
+	width: 160px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px 0px 1px;
+}
+
+#u630
+{
+	z-index: 346;
+	height: 20px;
+	width: 160px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 1px;
+	background: url("../images/u630.png") no-repeat 0px 0px;
+}
+
+#u629.TabbedPanelsTabSelected #u630
+{
+	background: url("../images/u630-a.png") no-repeat 0px 0px;
+}
+
+#u625
+{
+	z-index: 348;
+	width: 159px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	left: 319px;
+}
+
+#u625:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	background-color: #FFFFFF;
+	width: 159px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u627
+{
+	z-index: 350;
+	height: 20px;
+	width: 159px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 1px;
+	background: url("../images/u627.png") no-repeat 0px 0px;
+}
+
+#u625.TabbedPanelsTabSelected #u627
+{
+	background: url("../images/u627-a.png") no-repeat 0px 0px;
+}
+
+#u672
+{
+	z-index: 352;
+	width: 159px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	left: 479px;
+}
+
+#u672:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	background-color: #FFFFFF;
+	width: 159px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u674
+{
+	z-index: 354;
+	height: 20px;
+	width: 159px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 1px;
+	background: url("../images/u674.png") no-repeat 0px 0px;
+}
+
+#u672.TabbedPanelsTabSelected #u674
+{
+	background: url("../images/u674-a.png") no-repeat 0px 0px;
+}
+
+#u677
+{
+	z-index: 356;
+	width: 159px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	left: 639px;
+}
+
+#u677:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	background-color: #FFFFFF;
+	width: 159px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u679
+{
+	z-index: 358;
+	height: 20px;
+	width: 159px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 1px;
+	background: url("../images/u679.png") no-repeat 0px 0px;
+}
+
+#u677.TabbedPanelsTabSelected #u679
+{
+	background: url("../images/u679-a.png") no-repeat 0px 0px;
+}
+
+#u712
+{
+	z-index: 360;
+	width: 159px;
+	min-height: 20px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #DEDEDE;
+	padding-bottom: 3px;
+	position: relative;
+	margin-right: -10000px;
+	left: 799px;
+}
+
+#u712:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	background-color: #FFFFFF;
+	width: 159px;
+	min-height: 20px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u625.TabbedPanelsTabSelected,#u672.TabbedPanelsTabSelected,#u677.TabbedPanelsTabSelected,#u712.TabbedPanelsTabSelected
+{
+	border-style: solid;
+	background-color: #FFFFFF;
+	width: 159px;
+	min-height: 21px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 1px 0px;
+}
+
+#u714
+{
+	z-index: 362;
+	height: 20px;
+	width: 159px;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	top: 1px;
+	background: url("../images/u714.png") no-repeat 0px 0px;
+}
+
+#u712.TabbedPanelsTabSelected #u714
+{
+	background: url("../images/u714-a.png") no-repeat 0px 0px;
+}
+
+#u637
+{
+	z-index: 364;
+	width: 960px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u642
+{
+	z-index: 365;
+	width: 796px;
+	border-style: solid;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	padding: 26px 66px 5px 96px;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/maplestory_custom_background___traditional_home_by_superjumpinj-d6xex1m.jpg") no-repeat center bottom;
+}
+
+#u799
+{
+	z-index: 367;
+	width: 794px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u732-4
+{
+	z-index: 368;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -6px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -7px;
+	left: 4px;
+}
+
+#pu800
+{
+	width: 0.01px;
+	margin-left: 273px;
+	margin-top: 4px;
+}
+
+#u800
+{
+	z-index: 366;
+	width: 188px;
+	height: 158px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u733
+{
+	z-index: 372;
+	width: 175px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 6px;
+}
+
+#u646
+{
+	z-index: 374;
+	width: 381px;
+	border-style: solid;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	padding: 76px 288px 34px 289px;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/maplestory_custom_background___traditional_home_by_superjumpinj-d6xex1m.jpg") no-repeat center bottom;
+}
+
+#u796
+{
+	z-index: 376;
+	width: 379px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u739-4
+{
+	z-index: 377;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -3px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 6px;
+}
+
+#u798
+{
+	z-index: 375;
+	width: 98px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 1px;
+	margin-left: 128px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u740
+{
+	z-index: 381;
+	width: 75px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 16px;
+}
+
+#u638
+{
+	z-index: 383;
+	width: 350px;
+	border-style: solid;
+	border-color: #999999;
+	margin-right: -10000px;
+	position: relative;
+	padding: 48px 319px 26px 289px;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/maplestory_custom_background___traditional_home_by_superjumpinj-d6xex1m.jpg") no-repeat center bottom;
+}
+
+#u794
+{
+	z-index: 385;
+	width: 348px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 3px;
+	position: relative;
+}
+
+#u746-4
+{
+	z-index: 386;
+	width: 345px;
+	min-height: 50px;
+	background-color: transparent;
+	color: #777755;
+	font-size: 48px;
+	line-height: 58px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: 9px;
+}
+
+#u795
+{
+	z-index: 384;
+	width: 159px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	margin-left: 109px;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u747
+{
+	z-index: 390;
+	width: 129px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 8px;
+}
+
+#u676
+{
+	z-index: 392;
+	width: 958px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 18px;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/maplestory_custom_background___traditional_home_by_superjumpinj-d6xex1m.jpg") no-repeat center bottom;
+}
+
+#pu789
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 58px;
+	margin-left: -1px;
+}
+
+#u789
+{
+	z-index: 394;
+	width: 403px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 3px;
+	position: relative;
+}
+
+#u753-4
+{
+	z-index: 397;
+	width: 406px;
+	min-height: 31px;
+	background-color: transparent;
+	color: #0071BC;
+	font-size: 30px;
+	line-height: 36px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 12px;
+}
+
+#u790
+{
+	z-index: 396;
+	width: 123px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 12px;
+	margin-left: 145px;
+	margin-top: 34px;
+	position: relative;
+}
+
+#u754
+{
+	z-index: 401;
+	width: 133px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -6px;
+	left: -14px;
+}
+
+#pu793
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 58px;
+	margin-left: 488px;
+}
+
+#u793
+{
+	z-index: 393;
+	width: 450px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u760-4
+{
+	z-index: 405;
+	width: 449px;
+	min-height: 43px;
+	background-color: transparent;
+	color: #0071BC;
+	font-size: 30px;
+	line-height: 36px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 12px;
+}
+
+#u792
+{
+	z-index: 395;
+	width: 98px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 19px;
+	margin-left: 167px;
+	margin-top: 31px;
+	position: relative;
+}
+
+#u761
+{
+	z-index: 403;
+	width: 58px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 25px;
+}
+
+#u681
+{
+	z-index: 409;
+	width: 958px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 29px;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/maplestory_custom_background___traditional_home_by_superjumpinj-d6xex1m.jpg") no-repeat center bottom;
+}
+
+#u768
+{
+	z-index: 410;
+	width: 822px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 9px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 78px;
+}
+
+#u767-6
+{
+	z-index: 411;
+	width: 817px;
+	min-height: 185px;
+	background-color: transparent;
+	font-size: 30px;
+	line-height: 36px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 5px;
+}
+
+#u767-2
+{
+	font-size: 30px;
+	color: #FF0000;
+}
+
+#u767-3
+{
+	font-size: 30px;
+}
+
+#u769
+{
+	z-index: 417;
+	width: 44px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 173px;
+	left: 647px;
+}
+
+#u774
+{
+	z-index: 419;
+	width: 66px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 170px;
+	left: 708px;
+}
+
+#u716
+{
+	z-index: 421;
+	width: 958px;
+	border-style: solid;
+	border-color: #999999;
+	padding-bottom: 8px;
+	margin-right: -10000px;
+	position: relative;
+	border-width: 0px 1px 1px;
+	background: #FFFFFF url("../images/maplestory_custom_background___traditional_home_by_superjumpinj-d6xex1m.jpg") no-repeat center bottom;
+}
+
+#u782
+{
+	z-index: 422;
+	width: 833px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 62px;
+}
+
+#u780-4
+{
+	z-index: 423;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 15px;
+}
+
+#u783
+{
+	z-index: 427;
+	width: 117px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 168px;
+	left: 823px;
+}
+
+#u340-4
+{
+	z-index: 148;
+	display: block;
+	vertical-align: top;
+	margin-left: 290px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u392-4
+{
+	z-index: 158;
+	display: block;
+	vertical-align: top;
+	margin-left: 824px;
+	margin-top: 3px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 5px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
